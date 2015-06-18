@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Toolbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    </style>
+
+    <style name="Toolbar_Popup" parent="ThemeOverlay.AppCompat.Light">
+
+    </style>
+
+    <style name="Line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/divider_color_gray</item>
+    </style>
+
+    <style name="Text" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Text.Title">
+        <item name="android:textColor">@color/text_color_gray_primary</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Text.Content">
+        <item name="android:color">@color/text_color_gray_secondary</item>
+    </style>
+
+    <style name="Text.Secondary">
+        <item name="android:color">@color/text_color_gray_secondary</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="Button" parent="Widget.AppCompat.Button">
+
+    </style>
+
+    <style name="ButtonBorderless" parent="Widget.AppCompat.Button.Borderless">
+
+    </style>
+
+    <style name="ButtonColored" parent="Widget.AppCompat.Button.Borderless.Colored">
+
+    </style>
+
+</resources>

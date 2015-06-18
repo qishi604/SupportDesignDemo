@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- material item dimen -->
+    <dimen name="one_line_with_icon">48dp</dimen>
+    <dimen name="one_line_with_avatar">56dp</dimen>
+    <dimen name="two_lines">72dp</dimen>
+    <dimen name="three_lines">88dp</dimen>
+
+    <dimen name="divider_height">1dp</dimen>
+
+    <dimen name="item_content_padding_left">72dp</dimen>
+</resources>
